@@ -1,12 +1,9 @@
 ﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Project1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
-  Ball.cpp
-  ConsoleControl.cpp
-  GameObject.cpp
+  CreditsScene.cpp
   GameplayScene.cpp
-  main.cpp
-C:\Users\JoseArguesoPonce.AzureAD\Desktop\Framework\Framework\Framework\main.cpp(13,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
   MainMenu.cpp
-  Pad.cpp
   RankingScene.cpp
+  main.cpp
+C:\Users\JoseArguesoPonce.AzureAD\Desktop\AA1_BREAKOUT_Jose-Argueso\Framework\Framework\main.cpp(14,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
   Generating Code...
-  Project1.vcxproj -> C:\Users\JoseArguesoPonce.AzureAD\Desktop\Framework\Framework\x64\Debug\Framework.exe
+  Project1.vcxproj -> C:\Users\JoseArguesoPonce.AzureAD\Desktop\AA1_BREAKOUT_Jose-Argueso\Framework\x64\Debug\Framework.exe
